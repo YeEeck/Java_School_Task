@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e29ccd-9140-46ed-9cae-71c45387ccab" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CTask1/P3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task1/TeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task2/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task3/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task3/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task7/BasedPlusSalesEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task7/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task7/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task7/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask3/Task7/SalesEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask4/Task1/ArrayClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask4/Task2/ReserveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask4/Task3/StackClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask4/Task4/ArrayClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTask4/Task4/ArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolTask/ClassTask3/Task2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolTask/ClassTask3/Task2/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,33 @@
       <recent name="CTask1.P1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTest">
+  <component name="RunManager" selected="Application.EmployeeTest">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassTask4.Task4.ArrayTest" />
+      <module name="SchoolTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTask4.Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassTask3.Task7.EmployeeTest" />
+      <module name="SchoolTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTask3.Task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassTask3.Task2.PersonTest" />
       <module name="SchoolTask" />
@@ -61,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CTask1.P2.Task4" />
+    <configuration name="ReserveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassTask4.Task2.ReserveArray" />
       <module name="SchoolTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CTask1.P2.*" />
+          <option name="PATTERN" value="ClassTask4.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,38 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CTask1.P2.Task6" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassTask3.Task3.Zoo" />
       <module name="SchoolTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CTask1.P2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CTask1.P2.Task7" />
-      <module name="SchoolTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CTask1.P2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeacherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassTask3.Task1.TeacherTest" />
-      <module name="SchoolTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClassTask3.Task1.*" />
+          <option name="PATTERN" value="ClassTask3.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.ArrayTest" />
+        <item itemvalue="Application.ReserveArray" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.TeacherTest" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +158,12 @@
       <workItem from="1617880377003" duration="4923000" />
       <workItem from="1617973762506" duration="68000" />
       <workItem from="1618142496306" duration="359000" />
+      <workItem from="1618142893750" duration="58000" />
+      <workItem from="1618484516236" duration="5130000" />
+      <workItem from="1618707274653" duration="72000" />
+      <workItem from="1618718832772" duration="22000" />
+      <workItem from="1618744334055" duration="2999000" />
+      <workItem from="1618748012297" duration="1968000" />
     </task>
     <servers />
   </component>
@@ -163,25 +175,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617277781108" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1617885346150">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1618707345022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617885346150" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1617885346150">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618707345022" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1618747356367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617885346150" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1617885346149">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618747356367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1618747356367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617885346149" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1617885346150">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618747356367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1618747356367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617885346150" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617883221541">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618747356367" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1618747356367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617883221541" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618747356367" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618485166842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618485166842" />
   </component>
 </project>
