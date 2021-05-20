@@ -1,7 +1,9 @@
-public class Test {
-    static int gcd(int a, int b) {return b == 0 ? a : gcd(b, a % b);}
+import java.util.ArrayList;
+import java.util.List;
 
+public class Test {
     public static void main(String[] args) {
-        System.out.println(gcd(12, 8));
+        List<Integer> list;
     }
+
 }
